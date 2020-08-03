@@ -1,5 +1,5 @@
 # Responder
-# About
+### About
 This is a plugin which will soon be configurable. It will answer question players ask if they have chosen words in it like "Are any staff online?"
 Reply:
 If there is staff online:
