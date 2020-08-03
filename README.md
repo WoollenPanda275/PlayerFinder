@@ -1,8 +1,16 @@
-# Responder
-### About
-This is a plugin which will soon be configurable. It will answer question players ask if they have chosen words in it like "Are any staff online?"
-Reply:
-If there is staff online:
-"There are # staff members online!
-If there isn't staff online:
-"There is currently no staff mebers online"
+# PlayerFinder
+Find your players and do stuff.
+# Commands
+/find
+
+tp {player} - Teleport and recieve world and XYZ
+
+find {player} - recieve world and XYZ
+
+world {player} - recieve world
+
+troll {player} - Spawn lava at someones feat and recieve world and XYZ
+
+freeze {player} - Stop a player from moving and recieve world and XYZ
+
+unfreeze {player} - Let player move again and recieve world and XYZ
