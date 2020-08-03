@@ -8,4 +8,5 @@ use pocketmine\plugin\PluginBase;
 
 class Main extends PluginBase{
 
+  $this->getLogger()->info("...");
 }
